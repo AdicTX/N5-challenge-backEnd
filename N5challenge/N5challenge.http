@@ -1,0 +1,6 @@
+@N5challenge_HostAddress = http://localhost:5126
+
+GET {{N5challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
